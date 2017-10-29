@@ -1,0 +1,30 @@
+obj1=0;
+obj2=0;
+obj3=0;
+obj4=0;
+obj5=0;
+obj6=0;
+obj7=0;
+obj8=0;
+obj9=0;
+obj10=0;
+obj11=0;
+obj12=0;
+imgpos=0;
+
+
+function inventaire {
+
+     if(objet1 = 1){
+     if(img = 0){
+     
+     document.getElementById("objet1").style.height="32px";
+     document.getElementById("objet1").style.whidht="32px";
+     document.getElementById("objet1").style.top="450px";
+     document.getElementById("objet1").style.left="10px";
+     
+     }
+     
+     }
+
+}
